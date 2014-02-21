@@ -1,4 +1,4 @@
-package com.jgraves.mygdxgame;
+package com.jgraves.game;
 
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.VertexAttributes.Usage;

@@ -1,4 +1,4 @@
-package com.jgraves.mygdxgame;
+package com.jgraves.game;
 
 import java.util.ArrayList;
 
